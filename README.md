@@ -2,8 +2,11 @@
 useful development resources summary
 
 Unity3D
-Tools
+
+Documents
+
 https://docs.unity3d.com/
+
 https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-vs-play-mode-tests.html
 
 Library
