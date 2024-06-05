@@ -17,6 +17,16 @@ https://github.com/Cysharp/UniTask
 
 https://github.com/Cysharp/MessagePipe
 
+https://github.com/Valax321/RadishTools.VContainer
+
+https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit
+
+https://github.com/qinyuanpei/Excel2Unity
+
+https://github.com/Nateonus/WebGLFileSaverForUnity
+
+https://github.com/Voltstro-Studios/UnityCommandLineParser
+
 <H2>UIToolkit</H2>
 
 https://github.com/sebesdm/UnityUIToolkitExtensions
@@ -31,6 +41,11 @@ https://github.com/OscarAbraham/UITKEditorAid
 
 https://github.com/jonisavo/uicomponents
 
+https://github.com/Voltstro-Studios/UnityWebBrowser
+
+https://github.com/thefranke/unityx3d
+
+https://github.com/atteneder/glTFast
 
 <H2>Addressables</H2>
 
