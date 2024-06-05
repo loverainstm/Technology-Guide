@@ -1,2 +1,2 @@
 # Technology-Guide
-useful Development resource summary
+useful development resources summary
