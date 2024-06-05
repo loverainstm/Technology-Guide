@@ -16,7 +16,18 @@ https://github.com/hadashiA/VContainer
 
 UIToolkit
 
+
 Addressables
+
+https://github.com/Unity-Technologies/Addressables-Sample
+
+https://github.com/dre0dru/AssetManagement
+
+A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
+
+https://github.com/Haruma-K/Addler
+
+Memory management system for Unity's Addressable Asset System. Provides lifetime management system for loaded resources, object pooling system, and preloading system.
 
 Unreal Engine
 
