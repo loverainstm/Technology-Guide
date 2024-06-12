@@ -11,6 +11,8 @@ https://docs.unity3d.com/
 
 https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-vs-play-mode-tests.html
 
+https://docs.unity3d.com/Packages/com.unity.visualscripting@1.9/manual/index.html
+
 <H2>Library</H2>
 
 https://github.com/hadashiA/VContainer
