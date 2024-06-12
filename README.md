@@ -13,6 +13,8 @@ https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-
 
 https://docs.unity3d.com/Packages/com.unity.visualscripting@1.9/manual/index.html
 
+https://github.com/github/gitignore/blob/main/Unity.gitignore
+
 <H2>Library</H2>
 
 https://github.com/hadashiA/VContainer
@@ -35,8 +37,9 @@ https://github.com/thefranke/unityx3d
 
 https://github.com/atteneder/glTFast
 
-
 https://github.com/Voltstro-Studios/UnityWebBrowser
+
+
 
 <H2>UIToolkit</H2>
 
