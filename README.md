@@ -48,6 +48,8 @@ https://github.com/OscarAbraham/UITKEditorAid
 
 https://github.com/jonisavo/uicomponents
 
+https://github.com/Unity-Technologies/ui-toolkit-manual-code-examples/tree/2023.2
+
 
 <H2>Addressables</H2>
 
