@@ -5,6 +5,8 @@ useful development resources summary
 
 <H2>Documents</H2>
 
+https://unity.com/cn/releases/editor/archive
+
 https://docs.unity3d.com/
 
 https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-vs-play-mode-tests.html
