@@ -39,6 +39,8 @@ https://github.com/atteneder/glTFast
 
 https://github.com/Voltstro-Studios/UnityWebBrowser
 
+https://github.com/DeathTBO/Unity3D-Json.Net
+
 
 
 <H2>UIToolkit</H2>
