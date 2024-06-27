@@ -15,6 +15,8 @@ https://docs.unity3d.com/Packages/com.unity.visualscripting@1.9/manual/index.htm
 
 https://github.com/github/gitignore/blob/main/Unity.gitignore
 
+https://webgpu.github.io/webgpu-samples/
+
 <H2>Library</H2>
 
 https://github.com/hadashiA/VContainer
