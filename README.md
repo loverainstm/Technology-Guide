@@ -13,6 +13,8 @@ https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-
 
 https://docs.unity3d.com/Packages/com.unity.visualscripting@1.9/manual/index.html
 
+https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
+
 https://github.com/github/gitignore/blob/main/Unity.gitignore
 
 https://webgpu.github.io/webgpu-samples/
