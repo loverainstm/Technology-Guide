@@ -11,6 +11,8 @@ https://docs.unity3d.com/
 
 https://docs.unity3d.com/6000.0/Documentation/Manual/ClassIDReference.html
 
+https://docs.unity3d.com/Packages/com.unity.addressables@2.1/manual/index.html
+
 https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/edit-mode-vs-play-mode-tests.html
 
 https://docs.unity3d.com/Packages/com.unity.visualscripting@1.9/manual/index.html
