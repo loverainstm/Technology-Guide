@@ -54,6 +54,9 @@ https://github.com/atteneder/glTFast
 
 https://github.com/p-svacha/MeshBuilderLib
 
+<H2>Light</H2>
+
+https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps?tab=readme-ov-file
 
 <H2>AI</H2>
 
