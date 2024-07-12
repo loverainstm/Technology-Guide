@@ -125,7 +125,7 @@ https://github.com/UnityTechnologies/LoadyDungeons
 
 https://github.com/YMoonRiver/hybridclr_addressable
 
-
+https://github.com/inc8877/AddressablesMaster
 
 
 <H1>Unreal Engine</H1>
