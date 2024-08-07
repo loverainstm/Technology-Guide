@@ -36,6 +36,8 @@ https://github.com/Cysharp/UniTask
 
 https://github.com/Cysharp/MessagePipe
 
+https://github.com/Real-Serious-Games/c-sharp-promise
+
 https://github.com/Valax321/RadishTools.VContainer
 
 
