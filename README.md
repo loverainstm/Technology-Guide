@@ -74,6 +74,8 @@ https://github.com/MahmoudKanbar/Unity-Dynamic-Lightmaps?tab=readme-ov-file
 
 https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit
 
+https://alphacephei.com/vosk/unity
+
 <H2>Json</H2>
 
 https://github.com/DeathTBO/Unity3D-Json.Net
