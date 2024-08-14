@@ -76,6 +76,8 @@ https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit
 
 https://alphacephei.com/vosk/unity
 
+https://github.com/srcnalt/OpenAI-Unity
+
 <H2>Json</H2>
 
 https://github.com/DeathTBO/Unity3D-Json.Net
