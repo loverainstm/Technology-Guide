@@ -27,6 +27,8 @@ https://unity.com/cn/ecs
 
 https://docs.unity3d.com/Packages/com.unity.cloud.gltfast@6.7/manual/index.html
 
+https://github.com/hubertgdev/unity-script-templates
+
 
 <H2>Library</H2>
 
