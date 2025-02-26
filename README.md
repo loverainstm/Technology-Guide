@@ -182,6 +182,8 @@ https://github.com/cefsharp/CefSharp
 
 <H1>Python</H1>
 
+https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
+
 <H1>ToolChain</H1>
 
 https://renderdoc.org/
