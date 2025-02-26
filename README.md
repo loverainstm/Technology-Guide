@@ -1,5 +1,8 @@
 # Technology-Guide
 useful development resources summary
+<H1>Python</H1>
+
+https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
 
 <H1>Unity3D</H1>
 
@@ -180,9 +183,7 @@ https://github.com/cefsharp/CefSharp
 
 <H1>C++</H1>
 
-<H1>Python</H1>
 
-https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
 
 <H1>ToolChain</H1>
 
