@@ -6,6 +6,8 @@ https://github.com/python/mypy
 
 https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
 
+https://cheatsheetseries.owasp.org/index.html
+
 <H1>Unity3D</H1>
 
 <H2>Documents</H2>
