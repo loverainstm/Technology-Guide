@@ -181,6 +181,11 @@ https://github.com/druhasu/UnrealDI
 
 Dependency Injection (DI) container for Unreal Engine
 
+https://github.com/gracicot/kangaru
+
+Dependency Injection Container for C++
+
+
 <H1>C#</H1>
 
 https://github.com/cefsharp/CefSharp
