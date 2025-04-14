@@ -2,6 +2,8 @@
 useful development resources summary
 <H1>Python</H1>
 
+https://github.com/ets-labs/python-dependency-injector
+
 https://github.com/python/mypy
 
 https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition
