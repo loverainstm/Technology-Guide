@@ -16,6 +16,8 @@ https://cheatsheetseries.owasp.org/index.html
 
 https://unity.com/cn/releases/editor/archive
 
+https://unity.com/releases/editor/archive
+
 https://docs.unity3d.com/
 
 https://docs.unity3d.com/6000.0/Documentation/Manual/ClassIDReference.html
