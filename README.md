@@ -60,7 +60,9 @@ https://github.com/Nateonus/WebGLFileSaverForUnity
 
 https://github.com/Voltstro-Studios/UnityCommandLineParser
 
+https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
 
+https://github.com/wechat-miniprogram/minigame-unity-wechat-preview
 
 
 https://github.com/Voltstro-Studios/UnityWebBrowser
